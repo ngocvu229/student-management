@@ -13,7 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "node-persist": "0.0.8",
     "persist": "^0.2.7",
     "yargs": "^15.1.0"
   }
